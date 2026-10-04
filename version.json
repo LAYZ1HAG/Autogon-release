@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.8",
-  "downloadUrl": "https://github.com/LAYZ1HAG/Autogon-release/releases/download/v1.8/autogon.apk",
-  "releaseNotes": "Мешалка для профиля затирание"
+  "versionCode": 9,
+  "versionName": "1.9",
+  "downloadUrl": "https://github.com/LAYZ1HAG/Autogon-release/releases/download/v1.9/autogon.apk",
+  "releaseNotes": "Добавлена проверка "активного" профиля"
 }
